@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CategoryService.API.props" />
+</Project>
