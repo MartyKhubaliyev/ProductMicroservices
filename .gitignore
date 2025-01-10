@@ -1,0 +1,62 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.ide.*
+
+# Logs
+*.log
+
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.psess
+
+# Dependency caches
+*.pidb
+*.svd
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# Generated files
+_ServiceModel.cs
+Generated_Code/
+
+# Database-related files
+*.mdf
+*.ldf
+*.ndf
+
+# IDE-related
+*.sln.iml
+*.sln.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled output
+*.dll
+*.exe
+*.so
+*.dylib
+*.class
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.swo
